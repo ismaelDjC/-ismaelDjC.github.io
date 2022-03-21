@@ -1,5 +1,6 @@
 import axios from "axios";
 export class ProductService{
+    
     baseUrl="https://mongo-condo-api.herokuapp.com/api/products/"
 
     create(product){

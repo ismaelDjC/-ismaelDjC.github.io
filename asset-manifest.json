@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fron-condo-api/static/css/main.006ad8bb.css",
+    "main.js": "/fron-condo-api/static/js/main.2307792f.js",
+    "static/js/787.83d30682.chunk.js": "/fron-condo-api/static/js/787.83d30682.chunk.js",
+    "static/media/primeicons.svg": "/fron-condo-api/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/fron-condo-api/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/fron-condo-api/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/fron-condo-api/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/fron-condo-api/index.html",
+    "main.006ad8bb.css.map": "/fron-condo-api/static/css/main.006ad8bb.css.map",
+    "main.2307792f.js.map": "/fron-condo-api/static/js/main.2307792f.js.map",
+    "787.83d30682.chunk.js.map": "/fron-condo-api/static/js/787.83d30682.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006ad8bb.css",
+    "static/js/main.2307792f.js"
+  ]
+}

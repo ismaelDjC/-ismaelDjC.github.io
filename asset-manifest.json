@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fron-condo-api/static/css/main.006ad8bb.css",
-    "main.js": "/fron-condo-api/static/js/main.2307792f.js",
-    "static/js/787.83d30682.chunk.js": "/fron-condo-api/static/js/787.83d30682.chunk.js",
-    "static/media/primeicons.svg": "/fron-condo-api/static/media/primeicons.c6e2053303524e39530c.svg",
-    "static/media/primeicons.eot": "/fron-condo-api/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
-    "static/media/primeicons.woff": "/fron-condo-api/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
-    "static/media/primeicons.ttf": "/fron-condo-api/static/media/primeicons.91bacab1f083f2795272.ttf",
-    "index.html": "/fron-condo-api/index.html",
-    "main.006ad8bb.css.map": "/fron-condo-api/static/css/main.006ad8bb.css.map",
-    "main.2307792f.js.map": "/fron-condo-api/static/js/main.2307792f.js.map",
-    "787.83d30682.chunk.js.map": "/fron-condo-api/static/js/787.83d30682.chunk.js.map"
+    "main.css": "/static/css/main.73e7e7ec.css",
+    "main.js": "/static/js/main.689b34af.js",
+    "static/js/787.83d30682.chunk.js": "/static/js/787.83d30682.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/index.html",
+    "main.73e7e7ec.css.map": "/static/css/main.73e7e7ec.css.map",
+    "main.689b34af.js.map": "/static/js/main.689b34af.js.map",
+    "787.83d30682.chunk.js.map": "/static/js/787.83d30682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.006ad8bb.css",
-    "static/js/main.2307792f.js"
+    "static/css/main.73e7e7ec.css",
+    "static/js/main.689b34af.js"
   ]
 }
